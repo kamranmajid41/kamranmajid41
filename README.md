@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003ec4&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C5D76&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=f7f7f7&width=435&lines=Hello%2C+it's+Kamran+Majid;Software+Engineer;" alt="Kamran Majid Profile"/>
@@ -37,4 +37,4 @@ My journey has led me to contribute to high-impact projects at organizations lik
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1HeMxJZg8IIPUq4wydtAAie9L9AhprP3R/view?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003ec4&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C5D76&height=120&section=footer" alt="footer"/>
